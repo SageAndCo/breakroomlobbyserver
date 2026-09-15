@@ -1,0 +1,12 @@
+{
+  "name": "breakroom-signaling-server",
+  "version": "1.0.0",
+  "description": "WebRTC signaling relay for Breakroom Compilation's web lobby.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
